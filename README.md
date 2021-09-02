@@ -5,7 +5,9 @@ _100 DAYS OF CHALLENGE_
 ### Language
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 
-#ABOUT THE REPO
+<p align="left"> <a href="https://www.linkedin.com/in/sahitya-roy/" target="blank"><img src="https://media-exp1.licdn.com/dms/image/C5616AQEmuPbEI_nGuw/profile-displaybackgroundimage-shrink_350_1400/0/1623646356957?e=1635984000&v=beta&t=Qm9FKatl8oPVJSRCSleR4NLuvaqeiYjZoqQpPQqotU4" alt="sahitya-roy" /></a> </
+
+# ABOUT THE REPO
 1. It's contain basic syntex of java if you want to learn java then its for you.
 2. Regularlu updated.
 3. If you want to add some more then please create a **issue**
@@ -25,3 +27,7 @@ Passionate about coding and online teaching beginners how to code efficiently. E
   <a href="mailto:sahitya.roy@uem.edu.in?subject=Hello%20Harsh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://SahityaRoy.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-%27D1203.svg?&style=for-the-badge&logo=hashnode&logoColor=blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+>Keep Contributing in open Source because it can help you in your career.
+
+
