@@ -12,7 +12,10 @@ _100 DAYS OF CHALLENGE_
 2. Regularlu updated.
 3. If you want to add some more then please create a **issue**
 4. If You have any doubt feel free to reach out to me.
-
+  
+	- [x] Create issue 
+- [ ] Update some question 
+- [ ] update some sample code 
 
 # About Me
 Passionate about coding and online teaching beginners how to code efficiently. Engineering student with problem-solving skills and ability to perform well in a team. Student of B.Tech Computer science engineering from University Of Engineering and management , Jaipur.
